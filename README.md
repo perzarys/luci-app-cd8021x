@@ -1,10 +1,9 @@
 # luci-app-cd8021x
 
-[README](README.md) | [中文说明](README_zh.md)
+This is a fork from max0y/luci-app-cd8021x
 
-Configure 802.1x wired authentication on OpenWrt/LEDE<br/>
+Configure 802.1x wireless/wired authentication on OpenWrt/LEDE<br/>
 
-![screenshot](https://raw.githubusercontent.com/max0y/luci-app-cd8021x/master/screenshot_en.png)<br/>
 ## Install<br/>
 1. This package depends on *wpad*, you need to remove *wpad-mini* first, or you can manually download the *wpad* package from [OpenWrt packages site](https://downloads.openwrt.org/releases/17.01.4/packages/).
 ```bash
